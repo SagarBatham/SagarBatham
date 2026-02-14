@@ -33,7 +33,7 @@ Alongside DSA, I am learning Full Stack Development with the MERN stack, focusin
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind&perline=6&height=70" />
 </p>
 
 ---
