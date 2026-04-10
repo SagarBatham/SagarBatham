@@ -1,43 +1,88 @@
-# 💫 About Me:
-Prefinal Year B.Tech CSE (AI) Student | Java & Python Learner | MERN Stack Developer<br>I am currently in my learning and growth phase, building strong foundations in Data Structures & Algorithms using Java. Alongside DSA, I am learning Full Stack Development with the MERN stack, focusing on writing clean code and improving consistently every day.
+# 👋 Hey there, I'm Sagar Batham!
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SagarBatham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SagarBatham&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBatham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SagarBatham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left">
-<a href="https://linkedin.com/in/sagarbatham" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/sagar_batham" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35" />
-</a>
-</p>
+💫 **About Me**  
+🎓 Prefinal Year B.Tech CSE (AI) Student  
+💻 Passionate about **Software Development & Problem Solving**  
+🚀 Currently building strong foundations in **DSA (Java)** & **Full Stack (MERN)**  
+📈 Focused on **consistent growth, clean coding & real-world projects**
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+## 🧠 What I’m Doing Currently
+- 🔥 Mastering **Data Structures & Algorithms (Java)**
+- ⚙️ Building **Backend APIs with Node.js & Express**
+- 🌐 Developing **Full Stack MERN Applications**
+- 🎯 Preparing for **Software Development Roles**
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind&height=75" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarBatham&theme=tokyonight&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SagarBatham&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBatham&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">📈 Current Focus</h3>
+## 🏆 Achievements & Goals
+- 🚀 Solving DSA problems regularly on **LeetCode**
+- 📚 Learning system design basics
+- 💡 Building impactful full-stack projects
+- 🎯 Goal: Crack top tech companies
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-• Mastering DSA in Java <br>
-• Building Backend APIs with Node.js <br>
-• Developing Full Stack MERN Projects <br>
-• Preparing for Software Development Roles
+  <a href="https://linkedin.com/in/sagarbatham">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/sagar_batham">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
 </p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SagarBatham&icon=5&color=6" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 *I believe consistency beats talent — showing up daily is my superpower.*
+
+---
