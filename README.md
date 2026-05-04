@@ -41,17 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarBatham&theme=tokyonight&show_icons=true&hide_border=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SagarBatham&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBatham&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 🏆 Achievements & Goals
 - 🚀 Solving DSA problems regularly on **LeetCode**
