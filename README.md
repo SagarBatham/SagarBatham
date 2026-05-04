@@ -43,20 +43,6 @@
   <a href="https://linkedin.com/in/sagarbatham" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-
-      
-
-  <a href="https://leetcode.com/sagar_batham" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SagarBatham&icon=5&color=6" />
 </p>
 
 ---
