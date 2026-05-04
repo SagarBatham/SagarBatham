@@ -6,65 +6,41 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 Prefinal Year B.Tech CSE (AI) Student
-💻 Passionate about building **scalable web applications**
-⚙️ Focused on **Backend Development + MERN Stack**
-📈 Consistently improving through **DSA & real-world projects**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
 ---
 
-## 🧠 Current Focus
+## 🚀 About Me
 
-* 🔥 Data Structures & Algorithms (Java)
-* ⚙️ Backend APIs (Node.js, Express)
-* 🌐 Full Stack MERN Development
-* 📦 Learning System Design Basics
+🎓 Prefinal Year B.Tech CSE (AI) Student
+💻 Passionate about building scalable web applications
+⚙️ Focused on Backend Development + MERN Stack
+📈 Consistently improving through DSA & real-world projects
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### ☁️ Tools & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,git,github,vercel" />
 </p>
 
 ---
 
-
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarBatham&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarBatham&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarBatham&theme=tokyonight" />
-</p>
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBatham&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/SagarBatham/SagarBatham/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -73,24 +49,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sagarbatham" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+      
+
   <a href="https://leetcode.com/sagar_batham" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
   </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SagarBatham&icon=5&color=6" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 Consistency beats talent — I focus on showing up daily and improving 1% every day.
+💡 Consistency beats talent — I improve 1% every day.
